@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coolguy-codin-Rydham
-- 👀 I’m interested in Development and Ethical Hacking
+- 👀 I’m interested in Development
 - 🌱 I’m currently starting with coding
 - 📫 Instagram handle @__rydham__2
 
