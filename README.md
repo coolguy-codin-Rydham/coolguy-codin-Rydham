@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @coolguy-codin-Rydham
-- 👀 I’m interested in Development
-- 🌱 I’m currently starting with coding
-- 📫 Instagram handle @rydham.js
+- 👀 I’m aspiring DevOps
+- 🕸️ I'm a front-end Developer currently (not plan on being for long tbh)
+- 📫 Instagram handle @rydham.jsx
 
 <!---
 coolguy-codin-Rydham/coolguy-codin-Rydham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
