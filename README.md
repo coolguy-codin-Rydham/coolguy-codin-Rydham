@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coolguy-codin-Rydham
 - 👀 I’m aspiring DevOps
-- 🕸️ I'm a front-end Developer currently (not plan on being for long tbh)
+- 🕸️ I'm a Full Stack Developer currently (not plan on being for long tbh)
 - 📫 Instagram handle @rydham.jsx
 
 <!---
